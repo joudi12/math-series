@@ -4,4 +4,4 @@
 
 ### The program basically returns both Fibonacci series and Lucas series for any given number or a list of numbers.
 
-## the PR link :
+## the PR link :[link](https://github.com/joudi12/math-series/pull/1)
